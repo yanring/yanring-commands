@@ -217,10 +217,6 @@ Explain the problem, solution, implementation details. Use Mermaid for visualiza
 
 ### 2. Critical Issues (Must Fix)
 *List of blocking issues regarding correctness, stability, or major performance flaws.*
-1. **[Category]** Issue description...
-   # Suggested Fix
-   ### 3. Suggestions & Improvements
-*Performance optimizations, refactoring suggestions, or minor logic improvements.*
 1. ...
 
 ### 4. Style & Documentation
